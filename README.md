@@ -12,6 +12,7 @@
 - 📫 How to reach me **navneet1812.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p>Ain't tryna Connect fr </p>
 <p align="left">
 </p>
 
