@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ChatApp](https://github.com/Ns-Dev64/ChatApp)
 
-- 🌱 I’m currently learning **Djnago,React and Websockets**
+- 🌱 I’m currently learning **Node,React and Express**
 
 - 👯 I’m looking to collaborate on [GymWebsite](https://github.com/Ns-Dev64/GymWebsite-full-stack-)
 
