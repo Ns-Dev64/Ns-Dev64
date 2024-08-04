@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Placement Cell](https://github.com/Ns-Dev64/Placement-Management-Fullstack.git)
 
-- 🌱 I’m currently learning **GO LANH**
+- 🌱 I’m currently learning **GO LANG**
 
 - 👯 I’m looking to collaborate on [Zomato-Clone](https://github.com/Ns-Dev64/Zomato-Clone-for-nerds.git)
 
