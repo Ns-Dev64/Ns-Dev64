@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **nerd**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/navaneet-singh-7a7a5627b </h3>
 <p align="left">
 </p>
 
