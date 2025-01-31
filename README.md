@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navaneet Singh</h1>
-<h3 align="center">A passionate FullStack(Backend) developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 - 🔭 I’m currently working on TypeScript and Redis.
 
